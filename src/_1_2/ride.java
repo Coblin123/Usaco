@@ -1,7 +1,7 @@
 /*
  * ID : colink91
  * LANG: JAVA
- * TASK: gift1
+ * TASK: ride
  */
 package _1_2;
 import java.util.*;
