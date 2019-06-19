@@ -1,6 +1,8 @@
 
-public class template {
-
-	//Welcome to USACO
+public class template {	
+	
+	public static void main(String args[]) {
+		
+	}
 	
 }
