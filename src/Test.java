@@ -23,5 +23,9 @@ public class Test {
 		
 		System.out.println(result);
 		
+		char ch = 'T';
+		
+		System.out.println((int)ch-'A');
+		
 	}
 }
