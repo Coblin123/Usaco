@@ -1,7 +1,7 @@
 /*
- * ID : colink91
- * LANG: JAVA
- * TASK: gift1
+ID : colink91
+LANG: JAVA
+TASK: gift1
  */
 import java.util.*;
 import java.io.*;
@@ -27,7 +27,7 @@ public class template {
 			result = solve();
 			
 			//Write out file
-			out.println(result);
+			out.print(result);
 			
 			out.close();
 			in.close();
