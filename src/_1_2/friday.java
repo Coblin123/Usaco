@@ -14,8 +14,7 @@ public class friday {
 	//static StringBuilder result;
 	static String result = "";
 	//Input Variables
-	static String[] list;
-	
+		
 	public static void main(String args[]) {
 		
 		try {
@@ -42,9 +41,11 @@ public class friday {
 	private static void init() {
 		//get data
 		//Initialize Input Variables
+
 	}
 	private static String solve() {
 		//Process and Output
+		
 		return result;
 
 	}
